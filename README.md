@@ -1,5 +1,6 @@
 # dotfiles
 My Dotfiles!
+![alt text](https://github.com/BeelzebubOfGluttony/dotfiles/blob/master/screenshot-2023-04-28_23:59:49.png?raw=true)
 Been messing with Linux for a couple years now and finally feel good enough about it to post something here :)) (running arch btw)
 
     Terminal: Kitty
